@@ -89,7 +89,7 @@ a, a:hover{
     text-align: center;
 }
 .dsmovie-btn, .dsmovie-btn:hover{
-    width: 180px;;
+    width: 180px;
     height: 40px;
     background-color: var(--color-primary);
     color: var(--white);
